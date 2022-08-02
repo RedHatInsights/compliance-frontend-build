@@ -1,2 +1,0 @@
-(self.webpackChunkcompliance_frontend=self.webpackChunkcompliance_frontend||[]).push([[5980,5467,9477,3929],{3674:(n,e,c)=>{var o=c(14636),p=c(280),r=c(98612);n.exports=function(n){return r(n)?o(n):p(n)}},45467:()=>{}}]);
-//# sourceMappingURL=../sourcemaps/5980.a28d6cf7be03cadee81b1075c3a4abd0.js.map
