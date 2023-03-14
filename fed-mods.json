@@ -1,14 +1,14 @@
 {
     "compliance": {
         "entry": [
-            "/beta/apps/compliance/compliance.7be6b3141b6b2d47a186.js"
+            "/beta/apps/compliance/compliance.d9da15873dd2623a077c.js"
         ],
         "modules": [
-            "/beta/apps/compliance/js/889.7be6b3141b6b2d47a186.js",
-            "/beta/apps/compliance/css/889.3c7e5782850c3c59d2c6.css",
-            "/beta/apps/compliance/js/582.7be6b3141b6b2d47a186.js",
-            "/beta/apps/compliance/css/582.2b1756ed5867ebd762d3.css",
-            "/beta/apps/compliance/js/643.7be6b3141b6b2d47a186.js"
+            "/beta/apps/compliance/js/889.d9da15873dd2623a077c.js",
+            "/beta/apps/compliance/css/889.b59eb318f62fa25a3f7b.css",
+            "/beta/apps/compliance/js/582.d9da15873dd2623a077c.js",
+            "/beta/apps/compliance/css/582.edb3d0d0af3c77e5922d.css",
+            "/beta/apps/compliance/js/643.d9da15873dd2623a077c.js"
         ]
     }
 }
