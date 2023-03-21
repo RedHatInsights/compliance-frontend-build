@@ -1,14 +1,14 @@
 {
     "compliance": {
         "entry": [
-            "/apps/compliance/compliance.1c0c60787f7c76cc28e2.js"
+            "/apps/compliance/compliance.2588272933ef9007191c.js"
         ],
         "modules": [
-            "/apps/compliance/js/889.1c0c60787f7c76cc28e2.js",
-            "/apps/compliance/css/889.d61e1d6b30bead19b485.css",
-            "/apps/compliance/js/582.1c0c60787f7c76cc28e2.js",
-            "/apps/compliance/css/582.67c30801fae6c8d576de.css",
-            "/apps/compliance/js/643.1c0c60787f7c76cc28e2.js"
+            "/apps/compliance/js/889.2588272933ef9007191c.js",
+            "/apps/compliance/css/889.b59eb318f62fa25a3f7b.css",
+            "/apps/compliance/js/582.2588272933ef9007191c.js",
+            "/apps/compliance/css/582.edb3d0d0af3c77e5922d.css",
+            "/apps/compliance/js/643.2588272933ef9007191c.js"
         ]
     }
 }
