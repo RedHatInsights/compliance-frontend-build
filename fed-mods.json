@@ -1,14 +1,11 @@
 {
-    "compliance": {
-        "entry": [
-            "/apps/compliance/compliance.1f284bdf4ee14dac58e0.js"
-        ],
-        "modules": [
-            "/apps/compliance/js/889.1f284bdf4ee14dac58e0.js",
-            "/apps/compliance/css/889.b59eb318f62fa25a3f7b.css",
-            "/apps/compliance/js/582.1f284bdf4ee14dac58e0.js",
-            "/apps/compliance/css/582.edb3d0d0af3c77e5922d.css",
-            "/apps/compliance/js/643.1f284bdf4ee14dac58e0.js"
-        ]
-    }
+  "name": "compliance",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/apps/compliance/",
+  "loadScripts": [
+    "compliance.3324442872e419b03220.js"
+  ],
+  "buildHash": "3324442872e419b03220b64f4edf7be4"
 }
