@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/compliance/",
   "loadScripts": [
-    "compliance.60dc736dd61303857c51.js"
+    "compliance.a2ba5805cceb7164e220.js"
   ],
-  "buildHash": "60dc736dd61303857c5153ab7186cdf7"
+  "buildHash": "a2ba5805cceb7164e220a75ad3648bfc"
 }
